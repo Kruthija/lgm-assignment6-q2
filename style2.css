@@ -1,0 +1,118 @@
+#background-image{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/653/403/original/abstract-art-nature-background-trendy-plants-frame-design-background-color-flowers-decorative-beautiful-garden-botanical-leaves-and-floral-pattern-design-for-summer-sale-banner-vector.jpg);
+    height: 320px;
+    padding-top:2px;
+    color:rgb(14, 13, 13);
+    margin-top:25px;
+    max-width:100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#content{
+    max-width: 300px;
+    padding: 10px,20px;
+    margin-top:70px;
+    
+}
+#1stpage{
+    background: slategray;
+}
+#logoim
+{
+    width:300px;
+    height:30px;
+    float:center;
+}
+#logo{
+background-image: url();
+max-width:100%;
+height:350ox;
+color:black;
+}
+#bimg1{
+    background-image: url(https://i.pinimg.com/originals/16/73/33/167333c8b6668d0420894842007fdc82.jpg);
+height:300px;
+max-width:200%;
+margin-top:-65px;
+
+}
+#girl{
+    height:200px;
+    width:200px;
+padding:40px 40px 20px 40px;
+padding-top: 10px;
+}
+p{
+    font-size: x-large;
+    color:black ;
+    float:center;
+    padding-left:250px;
+    padding-top:10px;
+    margin:-170px;
+    margin-left:20px;
+}
+p4{
+    font-size: x-large;
+    color: crimson;
+    font-family: monospace;
+}
+#bimg2{
+    background-image: url(https://cutewallpaper.org/21/yellow-background-aesthetic/Yellow-Popular-Aesthetic-Bee-Dedemax.jpg);
+    height:300px;
+    max-width:100%;
+    margin-top:-65px;
+}
+#hobbies{
+    height:200px;
+    width:450px;
+padding:40px 40px 20px 40px;
+padding-top: 10px;
+
+}
+#hobylist{
+font-size: x-large;
+    color:black ;
+    float:center;
+    padding-left:500px;
+    padding-top:5px;
+    margin:-250px;
+    margin-left:50px;
+}
+#bimg3{
+    background-image: url(https://i.pinimg.com/originals/9d/a4/00/9da400bc14fe6fcc61610f0958699e95.jpg);
+    height:300px;
+    max-width:100%;
+    margin-top:-65px;
+}
+#strengths{
+    height:150px;
+    width:450px;
+padding:40px 40px 20px 40px;
+padding-top: 10px;
+}
+#strengthlist{
+    font-size: x-large;
+    color:black ;
+    float:center;
+    padding-left:500px;
+    padding-top:40px;
+    margin:-250px;
+    margin-left:50px;
+}
+.thumbnail{
+    display:inline-block;
+    height:150px;
+    padding: 5px;
+    margin-bottom: 20px;
+    background-color: rgb(180, 238, 153);
+    border: 1px solid;
+    text-align: center;
+    color:black;
+    margin-top:20px;
+    width:150px;
+}
+#logo{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHocTaDzjqTFEyUl0tJWz0e6-i1ekDaATgw&usqp=CAU);
+    height:300px;
+    max-width:100%;
+    margin-top:-15px;
+}
